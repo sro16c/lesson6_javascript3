@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/22/18
 
 ### Student Name:  
-(First and Last Name)
+Sean O'Neill
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We had to use java script to edit the photogallery, used multiple commands to make sure images and program were correct
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sro16c.github.io/lesson6_javascript3/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Took some time to mess around and become more familiar with the website
+2. Learned new commands in Javascript through explantations in the instructions and actually entering them and seeing what they do. 
+3. Some specific commands that I learned are insertBefore(),  cloneNode(), and  createElement() method
